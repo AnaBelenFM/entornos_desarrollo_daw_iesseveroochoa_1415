@@ -1,13 +1,15 @@
-INGREDIENTES HAMBURGUESA EXTRA OCHO COMENSALES
--8 Filetes 200g de carne magra de ternera y de cerdo
--16 lonchas de bacon
--16 lonchas de queso goldan
--8 huevos
+INGREDIENTES HAMBURGUESA VEGETARIANA OCHO COMENSALES
+-8 hamburguesa vegetarianas de 190g, cada una tendrá:
+	100g tofu
+	30g de zanahoria
+	30g de cebolla
+	30g de setas
+	pizca de sal
 -32 rodajas de tomate 
--4 cebollas cortada en aro
+-4 cebollas cortadas en aro
 -Lechuga 
 -24 pepinillos
--8 panes de hamburguesa medianos
+-8 panes de hamburguesa mediano
 -Aceite
 -Ketchup
 
